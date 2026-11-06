@@ -1,0 +1,13 @@
+# Core libraries used by the notebook
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+ipykernel
+jupyter
+
+# The notebook was verified with: pandas 3.0.6, numpy 2.5.4, scikit-learn 1.9.1,
+# matplotlib 3.11.2, seaborn 0.13.2 (Python 3.12).
+# For exact reproducibility, replace the names above with the versions from your own
+# environment (see the README, "Pinning versions").
